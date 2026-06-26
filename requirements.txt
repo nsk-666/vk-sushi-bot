@@ -1,1 +1,1 @@
-vk_api
+vk-api
